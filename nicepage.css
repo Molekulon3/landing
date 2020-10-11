@@ -16858,7 +16858,7 @@ a.pswp__share--download:hover {
   margin: 0;
   list-style: none;
   display: flex;
-  overflow-x: scroll;
+  overflow-x: auto;
 }
 .u-layout-thumbnails .u-carousel-thumbnail {
   flex-shrink: 0;
